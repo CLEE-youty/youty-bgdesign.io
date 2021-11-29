@@ -1,0 +1,18 @@
+﻿[
+    {
+        "outputFile": "Pages/FloatingColorOrbs.razor.css",
+        "inputFile": "Styles/FloatingColorOrbs/Index.scss"
+    },
+    {
+        "outputFile": "Pages/FloatingStainedGlassEffect.razor.css",
+        "inputFile": "Styles/FloatingStainedGlassEffect/Index.scss"
+    },
+    {
+        "outputFile": "Pages/SlidingDiagonalsBackgroundEffect.razor.css",
+        "inputFile": "Styles/SlidingDiagonalsBackgroundEffect/Index.scss"
+    },
+    {
+        "outputFile": "Pages/Index.razor.css",
+        "inputFile": "Styles/Index.scss"
+    }
+]
